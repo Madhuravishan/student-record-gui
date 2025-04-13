@@ -67,6 +67,11 @@ This project helped me explore and improve many skills including:
 
 ---
 
+## Author
+Madhuravishan Abeywickrama
+IT Undergraduate - University of Moratuwa
+LinkedIn Profile (https://www.linkedin.com/in/madhura-ravishan-a04b2b283/))
+
 ## 📷 Screenshots
 
 *(Add screenshots here if you want – just upload them to the repo and embed like below)*
@@ -77,10 +82,7 @@ This project helped me explore and improve many skills including:
 ![Database View](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/database.png))
 
 
-```Author
-Madhuravishan Abeywickrama
-IT Undergraduate - University of Moratuwa
-LinkedIn Profile ([Add your link here](https://www.linkedin.com/in/madhura-ravishan-a04b2b283/))
+
 
 
 ---
