@@ -72,6 +72,6 @@ This project helped me explore and improve many skills including:
 *(Add screenshots here if you want – just upload them to the repo and embed like below)*
 
 ```markdown
-![Login Form](screenshots/login.png)
-![Main Interface](screenshots/main_ui.png)
-![Database View](screenshots/database.png)
+![Software Interface](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/software.png))
+![Loginform Interface](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/login.png))
+![Database View](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/database.png))
