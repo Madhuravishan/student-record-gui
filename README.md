@@ -68,9 +68,10 @@ This project helped me explore and improve many skills including:
 ---
 
 ## Author
-Madhuravishan Abeywickrama
+Madhuravishan Abeywickrama,
 IT Undergraduate - University of Moratuwa
-LinkedIn Profile (https://www.linkedin.com/in/madhura-ravishan-a04b2b283/))
+LinkedIn Profile
+(https://www.linkedin.com/in/madhura-ravishan-a04b2b283/))
 
 ## 📷 Screenshots
 
