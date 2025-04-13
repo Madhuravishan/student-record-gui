@@ -75,3 +75,17 @@ This project helped me explore and improve many skills including:
 ![Software Interface](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/software.png))
 ![Loginform Interface](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/login.png))
 ![Database View](https://github.com/Madhuravishan/student-record-gui/blob/46cbc137d75c6be4cd6f61d9d3be7381d71732b5/database.png))
+
+
+```Author
+Madhuravishan Abeywickrama
+IT Undergraduate - University of Moratuwa
+LinkedIn Profile ([Add your link here](https://www.linkedin.com/in/madhura-ravishan-a04b2b283/))
+
+
+---
+
+Let me know if you want this directly added to a `README.md` file or need help uploading your screenshots and linking them properly in the markdown!
+
+
+
